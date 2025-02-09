@@ -1,0 +1,13 @@
+div{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+    margin: 3px;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin: 2px;
+    color: blueviolet;
+}
