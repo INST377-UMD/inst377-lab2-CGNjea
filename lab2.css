@@ -1,5 +1,11 @@
-div{
+div1{
     background-color: rgb(40, 218, 158);
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+    margin: 10px;
+}
+div2{
+    background-color: rgb(215, 218, 40);
     font-family: 'Franklin Gothic Medium';
     font-size: medium;
     margin: 10px;
